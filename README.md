@@ -1,2 +1,2 @@
 # iLidar_Test
-HYBO iLidar를 사용하여 특정포인트 얻기
+HYBO iLidar를사용하는 C#기반 Viewer개발
